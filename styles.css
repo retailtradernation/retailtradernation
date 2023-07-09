@@ -1,0 +1,113 @@
+nav {
+  font-family: Arial;
+  font-size: 28px;
+  font-weight: strong;
+  color: #f0f469;
+  width: ;
+  height: 300px;
+  justify-content: space-around;
+  text-align: ;
+  position: fixed;
+  background-color: #000000;
+  opacity: 100%;
+  border-radius: 49%;
+  box-shadow: 5px 5px #f0f469;
+  align-content: left;
+}
+ul{
+  list-style: none;
+  position: relative;
+}
+.logo-image{
+  width:150px;
+ height: 100%;
+  position: relative;
+  align-content: left;
+  opacity: 100%;
+ float: left;
+  }
+navbar{
+  position: absolute;
+  text-align: center;
+  content-align: left;
+}
+
+links-background{
+  opacity: 70%
+}
+body{
+  background-image: url(images/hubble.jpg);
+font-family: Arial;
+  font-size: 36px;
+  color: #f0f469;
+  max-width: 86%;
+  justify-content: space-around;
+  text-align: justify;
+  opacity: 80%;
+  margin: 50px;
+}
+#p1{
+  width: 100%;
+  font-size: 20px;
+}
+
+navigationBar{
+  font-size: 14px;
+}
+.button {
+  opacity: 90%;
+  border-radius: 50%;
+  width: 100%;
+  background-color: #f0f469;
+  border: 5px;
+  color: black;
+  padding: 2px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+#intro{
+  width: 35%;
+  border-style: line;
+  padding: 20px;
+  border: 5px double #f0f469;
+  height: 500px;
+  background-color: black;
+  }
+#mainbody{
+  padding: 100px 100px;
+  border: 5px dotted white;
+  width: 100%;
+  display: inline-block;
+  position: flex;
+}
+#block1{
+  display: inline-block;
+  position: flex;
+  float: left;
+  width: 45%;
+}
+#block2{
+  display: inline-block;
+  position: flex;
+  float: right;
+  width: 50%;
+}
+#container2 {
+  display: inline-block;
+}
+#tradingview-widget-container {
+  display: inline-block;
+}
+#chart {
+  float: right;
+  position: relative;
+  margin-right: 500px;
+  padding-top: 30px;
+}
+#cal {
+  display: inline-block;
+  width: 50%;
+  position: relative;
+}
